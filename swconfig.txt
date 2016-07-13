@@ -1,0 +1,15 @@
+##CRSboost feature switch
+0x0013007A = 1
+0x0013007C = 1
+
+##CRSboost pa value set in RrcConnectionSetup & RrcConnectionReconfiguration for Ho
+0x0013007B = 2
+
+#RSboost override value For Cell1
+0x0012002F = 0x02BC0001
+
+#RSboost override value For Cell2
+0x00120031 = 0x02BC0002
+
+#RSboost override value For Cell3
+0x00120032 = 0x02BC0003
